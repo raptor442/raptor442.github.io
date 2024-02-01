@@ -36,10 +36,10 @@ jobs:
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
 
       - name: Setup Node.js
-            uses: actions/setup-node@v2  # Updated to use Node.js 20
-            with:
-              node-version: 20  # Update to Node.js 20
-              
+        uses: actions/setup-node@v2  # Updated to use Node.js 20
+        with:
+          node-version: 20  # Update to Node.js 20
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
