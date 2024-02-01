@@ -9,37 +9,37 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Filpac # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Software to Power Your Politics # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Empower your political campaign with Filpac - the all-in-one campaign management software designed for candidates, PACs, party organizations, officeholders, treasurers, and fund-raisers. Filpac is your strategic partner in politics, offering unparalleled features to boost fundraising, volunteer recruitment, and voter outreach. Our system stands out by ensuring personal, appreciated contact with thousands, leveraging technology to multiply your campaign's reach and impact. Ideal for any political organization, from local school boards to presidential campaigns, Filpac offers flexibility across web, local networks, or PCs. With rock-solid support, continuous enhancements, and a user-driven design, we guarantee satisfaction and superior campaign performance. Choose Filpac for its powerful features, exceptional support, and commitment to your political success. Join our community of satisfied users enjoying early renewals and a software solution that truly powers politics.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: JoeTheKidd # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Joe Curran
+  email: test@test.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/ninjafish44 # change to your twitter homepage
+    - https://github.com/JoeTheKidd # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets\img\logo.ico
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
