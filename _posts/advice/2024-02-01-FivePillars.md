@@ -6,7 +6,7 @@ tags: [political campaigns,winning strategies,campaign organization,political cl
 ---
 
 
-![five-pillars](assets\img\five_pillars.png)
+![five-pillars](assets/img/five_pillars.png)
 
 ## Introduction
 
